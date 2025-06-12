@@ -54,4 +54,7 @@ M             1000</pre>
 	<li><code>1 &lt;= s.length &lt;= 15</code></li>
 	<li><code>s</code> contains only&nbsp;the characters <code>(&#39;I&#39;, &#39;V&#39;, &#39;X&#39;, &#39;L&#39;, &#39;C&#39;, &#39;D&#39;, &#39;M&#39;)</code>.</li>
 	<li>It is <strong>guaranteed</strong>&nbsp;that <code>s</code> is a valid roman numeral in the range <code>[1, 3999]</code>.</li>
-</ul>
+</ul>!
+<p>Flow chart</p>
+[Flow chart](https://github.com/user-attachments/assets/e4496cd2-4220-4f37-896a-495c69f53972)
+
